@@ -1,0 +1,10 @@
+C:\Users\luan.leo\source\repos\testspeech\testspeech\bin\Debug\testspeech.exe.config
+C:\Users\luan.leo\source\repos\testspeech\testspeech\bin\Debug\testspeech.exe
+C:\Users\luan.leo\source\repos\testspeech\testspeech\bin\Debug\testspeech.pdb
+C:\Users\luan.leo\source\repos\testspeech\testspeech\obj\Debug\testspeech.Form1.resources
+C:\Users\luan.leo\source\repos\testspeech\testspeech\obj\Debug\testspeech.Properties.Resources.resources
+C:\Users\luan.leo\source\repos\testspeech\testspeech\obj\Debug\testspeech.csproj.GenerateResource.cache
+C:\Users\luan.leo\source\repos\testspeech\testspeech\obj\Debug\testspeech.csproj.CoreCompileInputs.cache
+C:\Users\luan.leo\source\repos\testspeech\testspeech\obj\Debug\testspeech.exe
+C:\Users\luan.leo\source\repos\testspeech\testspeech\obj\Debug\testspeech.pdb
+C:\Users\luan.leo\source\repos\testspeech\testspeech\obj\Debug\testspeech.csproj.AssemblyReference.cache
